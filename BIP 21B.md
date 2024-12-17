@@ -4,7 +4,7 @@
 **Status:** 🚀 To the Moon\
 **Type:** Revolutionary Improvement\
 **Created:** 2024-12-10\
-**License:** CC0-1.0
+**License:** CC-🫱(‿¤‿)🫲 (‿ˠ‿)-1.0
 
 ---
 
@@ -141,5 +141,5 @@ Let’s hodl our butts and watch the world follow.
 ---
 
 **Copyright:**\
-This BIP is licensed under **CC0-1.0** and the eternal blessing of butt 🍑 memes.
+This BIP is licensed under **CC-🫱(‿¤‿)🫲 (‿ˠ‿)-1.0** and the eternal blessing of butt 🍑 memes.
 
