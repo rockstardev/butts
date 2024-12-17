@@ -10,7 +10,9 @@
 
 ## **Abstract**
 
-This proposal suggests redefining "Bitcoin" to "Buttcoin" 🍑 in all references, documentation, and user interfaces. By aligning Bitcoin's brand with one of its most vocal critics - the *r/Buttcoin* community on Reddit - we will supercharge adoption and inject humor into financial sovereignty. After all, even the haters can’t resist a good butt joke.
+This BIP proposes redefining the commonly recognized "bitcoin" unit so that what was previously known as the smallest indivisible unit becomes "buttcoin". Under this proposal, one buttcoin is defined as that smallest unit, eliminating the need for decimal places. By making the integral unit the standard measure, this BIP aims to simplify user comprehension, reduce confusion, and align on-chain values directly with their displayed representation.
+
+Also, by aligning Bitcoin's brand with one of its most vocal critics - the *r/Buttcoin* community on Reddit - we will supercharge adoption and inject humor into financial sovereignty. After all, even the haters can’t resist a good butt joke.
 
 Under this BIP:
 
